@@ -3,154 +3,175 @@
 <plist version="1.0">
 <array>
 	<dict>
-		<key>iPhone6/6s Setting</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{87,87}</string>
-			<key>Name</key>
-			<string>icon-Small@3x</string>
-		</dict>
-		<key>iPhone6/6s Spotlight</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{120,120}</string>
-			<key>Name</key>
-			<string>icon-Small-40@3x</string>
-		</dict>
-		<key>iPhone6/6s+</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{180,180}</string>
-			<key>Name</key>
-			<string>icon-60@3x</string>
-		</dict>
-		<key>iPhone Non-Retina (iOS 6.1 and Prior)</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{57,57}</string>
-			<key>Name</key>
-			<string>icon</string>
-		</dict>
-		<key>iPhone Retina (iOS6.1 and Prior)</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{114,114}</string>
-			<key>Name</key>
-			<string>icon@2x</string>
-		</dict>
-		<key>iPhone Retina</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{120,120}</string>
-			<key>Name</key>
-			<string>icon-60@2x</string>
-		</dict>
-		<key>iPhone Spotlight Non-Retina (iOS 6.1 and Prior)</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{29,29}</string>
-			<key>Name</key>
-			<string>icon-Small</string>
-		</dict>
-		<key>iPhone Spotlight Retina (iOS 6.1 and Prior)</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{58,58}</string>
-			<key>Name</key>
-			<string>icon-Small@2x</string>
-		</dict>
-		<key>iPhone Spotlight Retina</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{80,80}</string>
-			<key>Name</key>
-			<string>icon-Small-40@2x</string>
-		</dict>
-		<key>iPhone Setting Non-Retina (iOS 6.1 and Prior)</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{29,29}</string>
-			<key>Name</key>
-			<string>icon-Small</string>
-		</dict>
-		<key>iPhone Setting Retina</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{58,58}</string>
-			<key>Name</key>
-			<string>icon-Small@2x</string>
-		</dict>
-	</dict>
-	<dict>
-		<key>iPad Non-Retina (iOS 6.1 and Prior)</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{72,72}</string>
-			<key>Name</key>
-			<string>icon-72</string>
-		</dict>
-		<key>iPad Retina (iOS6.1 and Prior)</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{144,144}</string>
-			<key>Name</key>
-			<string>icon-72@2x</string>
-		</dict>
-		<key>iPad Retina</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{152,152}</string>
-			<key>Name</key>
-			<string>icon-76@2x</string>
-		</dict>
-		<key>iPad Non-Retina</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{76,76}</string>
-			<key>Name</key>
-			<string>icon-76</string>
-		</dict>
-		<key>iPad Spotlight Non-Retina (iOS 6.1 and Prior)</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{50,50}</string>
-			<key>Name</key>
-			<string>icon-Small-50</string>
-		</dict>
-		<key>iPad Spotlight Retina (iOS 6.1 and Prior)</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{100,100}</string>
-			<key>Name</key>
-			<string>icon-Small-50@2x</string>
-		</dict>
-		<key>iPad Spotlight Retina</key>
-		<dict>
-			<key>Dimensions</key>
-			<string>{80,80}</string>
-			<key>Name</key>
-			<string>icon-Small-40@2x</string>
-		</dict>
-		<key>iPad Spotlight Non-Retina</key>
+		<key>iPhone Notification(iOS 7-10) 20pt 2x</key>
 		<dict>
 			<key>Dimensions</key>
 			<string>{40,40}</string>
 			<key>Name</key>
-			<string>icon-Small-40</string>
+			<string>icon-20x20@2x</string>
 		</dict>
-		<key>iPad Setting Non-Retina</key>
+		<key>iPhone Notification(iOS 7-10) 20pt 3x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{60,60}</string>
+			<key>Name</key>
+			<string>icon-20x20@3x</string>
+		</dict>
+		<key>iPhone Spotlight(iOS 5,6) Settings(iOS 5-10) 29pt</key>
 		<dict>
 			<key>Dimensions</key>
 			<string>{29,29}</string>
 			<key>Name</key>
-			<string>icon-Small</string>
+			<string>icon-29x29</string>
 		</dict>
-		<key>iPad Setting Retina</key>
+		<key>iPhone Spotlight(iOS 5,6) Settings(iOS 5-10) 29pt 2x</key>
 		<dict>
 			<key>Dimensions</key>
 			<string>{58,58}</string>
 			<key>Name</key>
-			<string>icon-Small@2x</string>
+			<string>icon-29x29@2x</string>
+		</dict>
+		<key>iPhone Spotlight(iOS 5,6) Settings(iOS 5-10) 29pt 3x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{87,87}</string>
+			<key>Name</key>
+			<string>icon-29x29@3x</string>
+		</dict>
+		<key>iPhone Spotlight(iOS 7-10) 40pt 2x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{80,80}</string>
+			<key>Name</key>
+			<string>icon-40x40@2x</string>
+		</dict>
+		<key>iPhone Spotlight(iOS 7-10) 40pt 3x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{120,120}</string>
+			<key>Name</key>
+			<string>icon-40x40@3x</string>
+		</dict>
+		<key>iPhone App(iOS 5,6) 57pt</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{57,57}</string>
+			<key>Name</key>
+			<string>icon-57x57</string>
+		</dict>
+		<key>iPhone App(iOS 5,6) 57pt 2x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{114,114}</string>
+			<key>Name</key>
+			<string>icon-57x57@2x</string>
+		</dict>
+		<key>iPhone App(iOS 7-10) 60pt 2x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{120,120}</string>
+			<key>Name</key>
+			<string>icon-60x60@2x</string>
+		</dict>
+		<key>iPhone App(iOS 7-10) 60pt 3x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{180,180}</string>
+			<key>Name</key>
+			<string>icon-60x60@3x</string>
+		</dict>
+	</dict>
+	<dict>
+		<key>iPad Notifications(iOS 7-10) 20pt</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{20,20}</string>
+			<key>Name</key>
+			<string>icon-20x20</string>
+		</dict>
+		<key>iPad Notifications(iOS 7-10) 20pt 2x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{40,40}</string>
+			<key>Name</key>
+			<string>icon-20x20@2x</string>
+		</dict>
+		<key>iPad Settings(iOS 5-10) 29pt</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{29,29}</string>
+			<key>Name</key>
+			<string>icon-29x29</string>
+		</dict>
+		<key>iPad Settings(iOS 5-10) 29pt 2x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{58,58}</string>
+			<key>Name</key>
+			<string>icon-29x29@2x</string>
+		</dict>
+		<key>iPad Spotlight(iOS 7-10) 40pt</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{40,40}</string>
+			<key>Name</key>
+			<string>icon-40x40</string>
+		</dict>
+		<key>iPad Spotlight(iOS 7-10) 40pt 2x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{80,80}</string>
+			<key>Name</key>
+			<string>icon-40x40@2x</string>
+		</dict>
+		<key>iPad Spotlight(iOS 5,6) 50pt</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{50,50}</string>
+			<key>Name</key>
+			<string>icon-50x50</string>
+		</dict>
+		<key>iPad Spotlight(iOS 5,6) 50pt 2x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{100,100}</string>
+			<key>Name</key>
+			<string>icon-50x50@2x</string>
+		</dict>
+		<key>iPad App(iOS 5,6) 72pt</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{72,72}</string>
+			<key>Name</key>
+			<string>icon-72x72</string>
+		</dict>
+		<key>iPad App(iOS 5,6) 72pt 2x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{144,144}</string>
+			<key>Name</key>
+			<string>icon-72x72@2x</string>
+		</dict>
+		<key>iPad App(iOS 7-10) 76pt</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{76,76}</string>
+			<key>Name</key>
+			<string>icon-76x76</string>
+		</dict>
+		<key>iPad App(iOS 7-10) 76pt 2x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{152,152}</string>
+			<key>Name</key>
+			<string>icon-76x76@2x</string>
+		</dict>
+		<key>iPad Pro App(iOS 9-10) 83.5pt 2x</key>
+		<dict>
+			<key>Dimensions</key>
+			<string>{167,167}</string>
+			<key>Name</key>
+			<string>icon-83.5x83.5@2x</string>
 		</dict>
 	</dict>
 	<dict>
